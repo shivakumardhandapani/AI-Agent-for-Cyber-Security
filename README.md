@@ -9,10 +9,15 @@ About the environment:
 Algorithm being used:
 
   Q-Learning:
+  
   DQN:
+  
   Double DQN:
+  
   SARSA:
 
 Features:
+
+
 Installation:
 
