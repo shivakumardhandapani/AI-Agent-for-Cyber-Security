@@ -2,6 +2,8 @@ import os
 import matplotlib.pyplot as plt
 from matplotlib.image import imread
 
+plt.rcParams['text.usetex'] = False
+
 
 def plot_results(output_dir: str, random_seed: int, algorithm: str, mode: str) -> None:
     """
