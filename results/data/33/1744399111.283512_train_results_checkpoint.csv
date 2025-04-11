@@ -1,0 +1,2 @@
+avg_attacker_episode_rewards,avg_defender_episode_rewards,avg_episode_steps,epsilon_values,hack_probability,attacker_cumulative_reward,defender_cumulative_reward,avg_episode_loss_attacker,avg_episode_loss_defender,lr_list,cumulative_hack_probability
+0.33333333333333326,1.0,11.0,1,0.0,0,0,0.0,0.0,0.0005,0.0
