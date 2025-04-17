@@ -1,0 +1,6 @@
+2025-04-11 00:58:24,744 - DDQN_Agent - INFO - Model saved to: ./results/ddqn_2025-04-11_00-54-08/model
+2025-04-11 01:01:14,322 - DDQN_Agent - INFO - Model saved to: ./results/ddqn_2025-04-11_01-01-02/model
+2025-04-11 01:03:46,199 - DDQN_Agent - INFO - Model saved to: ./results/ddqn_2025-04-11_01-03-33/model
+2025-04-11 01:04:34,713 - DDQN_Agent - INFO - Model saved to: ./results/ddqn_2025-04-11_01-04-10/model
+2025-04-11 04:02:30,952 - DDQN_Agent - INFO - Starting training
+2025-04-11 04:14:25,809 - DDQN_Agent - INFO - Model saved to: ./results/ddqn_2025-04-11_04-14-02/model
