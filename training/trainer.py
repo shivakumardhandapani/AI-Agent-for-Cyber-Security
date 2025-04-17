@@ -5,7 +5,7 @@ from typing import Dict, Any, List, Optional
 from datetime import datetime
 import json
 import matplotlib.pyplot as plt
-from src.utils.logger import setup_logger
+from utils.logger import setup_logger
 
 class DefenseTrainer:
     """
