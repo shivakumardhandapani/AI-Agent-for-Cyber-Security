@@ -5,12 +5,12 @@ import numpy
 from datetime import datetime
 
 from gym_idsgame.agents.training_agents.q_learning.q_agent_config import QAgentConfig
-from experiments.util import util
-from experiments.util.plotting_util import read_and_plot_results
-from src.agents.sarsa_agent import SARSAAgent
-from src.utils.utils import get_output_dir, print_summary
-from src.environment.compatibility_wrapper import GymCompatibilityWrapper
-from src.utils.plotting import plot_training_evaluation_qtable
+from gym_idsgame.experiments.util import util
+from gym_idsgame.experiments.util.plotting_util import read_and_plot_results
+from agents.sarsa_agent import SARSAAgent
+from utils.utils import get_output_dir, print_summary
+from environment.compatibility_wrapper import GymCompatibilityWrapper
+from utils.plotting import plot_training_evaluation_qtable
 
 %matplotlib inline
 warnings.filterwarnings('ignore')
