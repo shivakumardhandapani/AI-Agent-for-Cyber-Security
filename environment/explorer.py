@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from gym_idsgame.envs.dao.node_type import NodeType
-from src.environment.idsgame_wrapper import IDSEnvironment
+from environment.idsgame_wrapper import IDSEnvironment
 
 class IDSGameExplorer:
     """
